@@ -1,5 +1,5 @@
 # SNV-Calling
-This is an SNV calling Bash pipeline written for an assignment in the course BIOL 7200
+This is an SNV calling Bash pipeline written for an assignment in the course Programming with Bioinformatics
 
 -> Input: Paired-end FASTQ files and a reference
 
